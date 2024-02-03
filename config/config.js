@@ -13,9 +13,9 @@ module.exports = {
     roomName: 'Changeme', // change this to your room name
     // change this to where you want the bot to teleport on start
     coordinates: {
-      x: 18,
-      y: 12,
-      z: 6,
+      x: 10,
+      y: 0,
+      z: 10,
       facing: 'FrontLeft'
     },
     reactionName: 'wink' // the reaction you want to use to kick players, 'wink', 'wave, 'heart', 'clap', 'thumbsup'
